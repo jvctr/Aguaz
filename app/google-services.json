@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "958297374481",
+    "firebase_url": "https://aguaz-b5bb9.firebaseio.com",
+    "project_id": "aguaz-b5bb9",
+    "storage_bucket": "aguaz-b5bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958297374481:android:ad266189c0d4f3c5",
+        "android_client_info": {
+          "package_name": "com.example.victor.agrvai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958297374481-n5vm53a36bsd4dssecptn5fbitjvp8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3aYb_7pr6S8W0ulU4Ilm9NYYpiukzCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
